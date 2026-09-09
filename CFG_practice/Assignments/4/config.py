@@ -1,3 +1,4 @@
+# Database configuration
 db_config = {
     "host": "localhost",
     "port": 3307,

@@ -2,7 +2,7 @@
 import mysql.connector
 from config import db_config
 
-# Fucntion to connect to 
+# Fucntion to connect to the database
 def get_db_connection():
     try:
         print("Attempting to connect to MySQL...")
